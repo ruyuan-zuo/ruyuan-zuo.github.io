@@ -28,6 +28,8 @@ B. A. | CASE WESTERN RESERVE UNIVERSITY                                         
 
 
 ### Publication and Poster Session
+
+
 ### Work Experience and Extracurricular
 
 ### Technical Skills
