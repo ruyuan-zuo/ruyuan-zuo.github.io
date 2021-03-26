@@ -19,7 +19,9 @@ My name is Ruyuan. I graduated from Case Western Reserve Univeristy in 2021, wit
 - Bulleted SOURCE summer funding awardee on project “Predictive Model for Extraprostatic Extension of Radiomics Derived from Periprostatic Fat on Prostate MRI”
 
 
-·	Relevant Course: 
+- Bulleted	Relevant Course: 
+    
+    
     ● Introduction to Programming in Java 
     ● Intro to Linear Algebra
     ● Intro Artificial Intelligence 
