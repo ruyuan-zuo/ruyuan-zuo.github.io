@@ -6,7 +6,7 @@ My name is Ruyuan. I graduated from Case Western Reserve Univeristy in 2021, wit
 
 
 ### Education
-- B. A. | CASE WESTERN RESERVE UNIVERSITY                                                                                                 CLEVELAND, OH | 01. 2021 
+- B. A. **CASE WESTERN RESERVE UNIVERSITY**                                                                                              *CLEVELAND, OH 01. 2021* 
 
 - Major: Computer Science, cum laude  
 
