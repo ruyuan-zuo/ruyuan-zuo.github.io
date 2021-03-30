@@ -14,16 +14,8 @@ My name is Ruyuan. I graduated from Case Western Reserve Univeristy in Jan 2021,
 - SOURCE summer funding awardee on project “Predictive Model for Extraprostatic Extension of Radiomics Derived from Periprostatic Fat on Prostate MRI”
 
 - Relevant Course: 
-    
-    
-    ● Introduction to Programming in Java 
-    ● Intro to Linear Algebra
-    ● Intro Artificial Intelligence 
-    ● Intro to Database Systems
-    ● Statistics for Engineering and Science using R
-    ● Introduction to Operating System and Concurrent Programming
-    ● Logic Design and Computer Organization 
-    ● C/C++ Programming
+● Intro to Artificial Intelligence ● Database Systems ● Statistics using R ● Operating System and Concurrent Programming
+● Structured and Unstructured Data ● Bioinformatics ● Probabilistic Graphic Model ● Computational Intelligence 
 
 
 
