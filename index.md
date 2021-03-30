@@ -16,8 +16,8 @@ My name is Ruyuan. I graduated from Case Western Reserve Univeristy in Jan 2021,
 - Relevant Course: 
 
 
-● Intro to Artificial Intelligence ● Database Systems ● Statistics using R ● Operating System and Concurrent Programming
-● Structured and Unstructured Data ● Bioinformatics ● Probabilistic Graphic Model ● Computational Intelligence 
+  ● Intro to Artificial Intelligence ● Database Systems ● Statistics using R ● Operating System and Concurrent Programming
+  ● Structured and Unstructured Data ● Bioinformatics ● Probabilistic Graphic Model ● Computational Intelligence 
 
 
 
