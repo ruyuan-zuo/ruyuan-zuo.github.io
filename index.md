@@ -14,6 +14,8 @@ My name is Ruyuan. I graduated from Case Western Reserve Univeristy in Jan 2021,
 - SOURCE summer funding awardee on project “Predictive Model for Extraprostatic Extension of Radiomics Derived from Periprostatic Fat on Prostate MRI”
 
 - Relevant Course: 
+
+
 ● Intro to Artificial Intelligence ● Database Systems ● Statistics using R ● Operating System and Concurrent Programming
 ● Structured and Unstructured Data ● Bioinformatics ● Probabilistic Graphic Model ● Computational Intelligence 
 
@@ -21,7 +23,7 @@ My name is Ruyuan. I graduated from Case Western Reserve Univeristy in Jan 2021,
 
 ### Research and Design Experience
 
- ##### CENTER FOR COMPUTATIONAL IMAGING & PERSONALIZED DIAGNOSTICS
+##### CENTER FOR COMPUTATIONAL IMAGING & PERSONALIZED DIAGNOSTICS
 -	Apply image pre-processing algorithms on medical image for recognition of lesions using Matlab
 -	Extract features from prostate and extra-prostatic fat region using first- and second- order statistics
 -	Use machine learning models like Support Vector Machines (SVM), decision tree, and logistic regression to train datasets on predicting fat extensions 
