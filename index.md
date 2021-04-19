@@ -35,22 +35,22 @@ My name is Ruyuan. I graduated from Case Western Reserve Univeristy (CWRU) in Ja
 
 ### Practical Experience
 
-##### Deep Learning in Sex Trafficking                                                                                              March 2020 – December 2020           
+##### Deep Learning in Sex Trafficking | March 2020 – December 2020           
 ###### Personal and Course Project: Machine Learning, Deep Learning
 - Implemented Fully Connected Neural Networks (FNN) to study mediating factors in sex trafficking 
 - Used NLP package (nltk.parse, nltk.CFG) to generate trafficking related semantics
 
-##### YouTube Data Analysis                                                                                                                August 2020 – December 2020                  
+##### YouTube Data Analysis | August 2020 – December 2020                  
 ###### Course Project: Structured and Unstructured Data
 - Created data storage system with PageRank algorithm to understand YouTube data 
 - Concluded that 80% of the top three recommendations using the algorithm clustered on the same category of video leading to potential information biases
 
 
 ### Work Experience and Extracurricular
-##### Mentor | CWRU UNDERGRADUATE RESEARCH SOCIETY | CLEVELAND, OH | 09.2020 – present
+##### Mentor | CWRU UNDERGRADUATE RESEARCH SOCIETY | CLEVELAND, OH | September 2020 – present
 -	Connect with freshmen interested in research. Offer advice and guidance for identifying and conducting research 
 
-##### Customer Service Assistant | CWRU UNIVERSITY HOUSING | CLEVELAND, OH | 09.2018 – 09.2020
+##### Customer Service Assistant | CWRU UNIVERSITY HOUSING | CLEVELAND, OH | September 2018 – September 2020
 - Demonstrated organizational skills by sorting student packages. Followed strict confidentiality guidelines with the Family Educational Rights and Privacy Act (FERPA) 
 - Developed communication skills, teamwork and accountability through working on-call for visiting summer guests
 
