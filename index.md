@@ -23,37 +23,37 @@ My name is Ruyuan. I graduated from Case Western Reserve Univeristy (CWRU) in Ja
 
 ### Research and Design Experience
 
-##### Reserch Assistant | March 2019 – current
-###### Center for Computational Imaging and Personalized Diagnostics
+#### Reserch Assistant | March 2019 – current
+##### Center for Computational Imaging and Personalized Diagnostics
 -	Derive radiomic features from prostate MRI with first- and second- order statistics (CoLIAGe, Gabor, Haralick and Gradient Sobel)
 -	Optimal feature selection with mRMR, JMI and CMIM models for training set
 -	Using machine learning models like Support Vector Machine, Decision Tree, and Logistic Regression to identify a best classifier
 -	Achieved 0.88 AUC with identifying prognostic bio-markers
-##### Reserch Assistant | August 2020 – November 2020
-###### CWRU Department of Computer and Data Science
+#### Reserch Assistant | August 2020 – November 2020
+##### CWRU Department of Computer and Data Science
 - Used Cox Regression to calculate survival probabilities in R
 -	Adapted Temporal Convolutional Network (TCN) to identify the length of survival with time series data
 
 ### Practical Experience
 
-##### Deep Learning in Sex Trafficking | March 2020 – December 2020           
-###### Personal and Course Project: Machine Learning, Deep Learning
+#### Deep Learning in Sex Trafficking | March 2020 – December 2020           
+##### Personal and Course Project: Machine Learning, Deep Learning
 - Implemented Fully Connected Neural Networks (FNN) to study mediating factors in sex trafficking 
 - Used NLP package (nltk.parse, nltk.CFG) to generate trafficking related semantics
 
-##### YouTube Data Analysis | August 2020 – December 2020                  
-###### Course Project: Structured and Unstructured Data
+#### YouTube Data Analysis | August 2020 – December 2020                  
+##### Course Project: Structured and Unstructured Data
 - Created data storage system with PageRank algorithm to understand YouTube data 
 - Concluded that 80% of the top three recommendations using the algorithm clustered on the same category of video leading to potential information biases
 
 
 ### Work Experience and Extracurricular
-##### Mentor | September 2020 – present
-###### CWRU Undergraduate Research Society
+#### Mentor | September 2020 – present
+##### CWRU Undergraduate Research Society
 -	Connect with freshmen interested in research. Offer advice and guidance for identifying and conducting research 
 
-##### Customer Service Assistant | September 2018 – September 2020
-###### CWRU University Housing
+#### Customer Service Assistant | September 2018 – September 2020
+##### CWRU University Housing
 - Demonstrated organizational skills by sorting student packages. Followed strict confidentiality guidelines with the Family Educational Rights and Privacy Act (FERPA) 
 - Developed communication skills, teamwork and accountability through working on-call for visiting summer guests
 
