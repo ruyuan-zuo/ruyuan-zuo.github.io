@@ -47,10 +47,12 @@ My name is Ruyuan. I graduated from Case Western Reserve Univeristy (CWRU) in Ja
 
 
 ### Work Experience and Extracurricular
-##### Mentor | CWRU UNDERGRADUATE RESEARCH SOCIETY | CLEVELAND, OH | September 2020 – present
+##### Mentor | September 2020 – present
+###### CWRU Undergraduate Research Society
 -	Connect with freshmen interested in research. Offer advice and guidance for identifying and conducting research 
 
-##### Customer Service Assistant | CWRU UNIVERSITY HOUSING | CLEVELAND, OH | September 2018 – September 2020
+##### Customer Service Assistant | September 2018 – September 2020
+###### CWRU University Housing
 - Demonstrated organizational skills by sorting student packages. Followed strict confidentiality guidelines with the Family Educational Rights and Privacy Act (FERPA) 
 - Developed communication skills, teamwork and accountability through working on-call for visiting summer guests
 
