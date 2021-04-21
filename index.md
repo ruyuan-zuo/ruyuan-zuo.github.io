@@ -29,6 +29,9 @@ My name is Ruyuan. I graduated from Case Western Reserve Univeristy (CWRU) in Ja
 -	Optimal feature selection with mRMR, JMI and CMIM models for training set
 -	Using machine learning models like Support Vector Machine, Decision Tree, and Logistic Regression to identify a best classifier
 -	Achieved 0.88 AUC with identifying prognostic bio-markers
+
+
+
 #### Reserch Assistant | August 2020 – November 2020
 ##### CWRU Department of Computer and Data Science
 - Used Cox Regression to calculate survival probabilities in R
