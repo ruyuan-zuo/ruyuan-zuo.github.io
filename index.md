@@ -19,8 +19,15 @@ My name is Ruyuan. I graduated from Case Western Reserve Univeristy (CWRU) in Ja
 - Relevant Courses: 
 
 
-  ● Intro to Artificial Intelligence ● Database Systems ● Statistics using R ● Operating System and Concurrent Programming
-  ● Structured and Unstructured Data ● Bioinformatics ● Probabilistic Graphic Model ● Computational Intelligence ● Computer architecture
+  - Intro to Artificial Intelligence 
+  - Database Systems 
+  - Statistics using R 
+  - Operating System and Concurrent Programming
+  - Structured and Unstructured Data 
+  - Bioinformatics
+  - Probabilistic Graphic Model
+  - Computational Intelligence
+  - Computer Architecture
 
 
 
