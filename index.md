@@ -54,7 +54,7 @@ My name is Ruyuan. I graduated from Case Western Reserve Univeristy (CWRU) in Ja
 
 
 ### Work Experience and Extracurricular
-#### Mentor | September 2020 – Janurary 2021
+#### Mentor | September 2020 – January 2021
 ##### CWRU Undergraduate Research Society
 -	Connect with freshmen interested in research. Offer advice and guidance for identifying and conducting research 
 
