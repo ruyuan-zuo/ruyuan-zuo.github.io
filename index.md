@@ -71,7 +71,7 @@ My name is Ruyuan. I graduated from Case Western Reserve Univeristy (CWRU) in Ja
 - Developed communication skills, teamwork and accountability through working on-call for visiting summer guests
 
 ### Technical Skills
--	Proficient in programming languages: Java, C++, Matlab, Python, R
--	Experience with SQL, HTML5, CSS5
+-	Proficient in programming languages: Java, Python, C++ 
+-	Experience with SQL, HTML, CSS
 -	Version Control using GitHub
 -	Bilingual in English and Mandarin
