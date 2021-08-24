@@ -2,11 +2,14 @@
 
 Hello! 
 
-My name is Ruyuan. I graduated from Case Western Reserve Univeristy (CWRU) in Jan 2021, with B.A. in Computer Science. 
+My name is Ruyuan. I graduated from Case Western Reserve Univeristy (CWRU) in Jan 2021, with B.A. in Computer Science. I am currently a MSCS student at University of Southern California.
 
 
 ### Education
+#### University of Southern California
+- Major: Computer Science, track Artificial Intelligence
 
+#### Case Western Reserve Univeristy (CWRU)
 - Major: Computer Science, cum laude  
 
 - Dean's Honor List (Fall 2017, Fall 2018) and Dean's High Honors (Spring 2019, Spring 2020)
@@ -23,7 +26,7 @@ My name is Ruyuan. I graduated from Case Western Reserve Univeristy (CWRU) in Ja
 
 ### Research and Design Experience
 
-#### Reserch Assistant | March 2019 – current
+#### Reserch Assistant | March 2019 – March 2021
 ##### Center for Computational Imaging and Personalized Diagnostics
 -	Derive radiomic features from prostate MRI with first- and second- order statistics (CoLIAGe, Gabor, Haralick and Gradient Sobel)
 -	Optimal feature selection with mRMR, JMI and CMIM models for training set
@@ -51,7 +54,7 @@ My name is Ruyuan. I graduated from Case Western Reserve Univeristy (CWRU) in Ja
 
 
 ### Work Experience and Extracurricular
-#### Mentor | September 2020 – present
+#### Mentor | September 2020 – Janurary 2021
 ##### CWRU Undergraduate Research Society
 -	Connect with freshmen interested in research. Offer advice and guidance for identifying and conducting research 
 
